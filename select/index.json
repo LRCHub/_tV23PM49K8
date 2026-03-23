@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "LOVE TOGETHER",
+  "base_artist": "ノーナ・リーヴス",
+  "createdAt": "2026-03-23T09:33:02.276961Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "We're In This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/01_We're_In_This_Love_Together_Al_Jarreau.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "We're In This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/02_We're_In_This_Love_Together_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "We're In This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/03_We're_In_This_Love_Together_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "We’re in This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": false,
+      "path": "select/04_We’re_in_This_Love_Together_Al_Jarreau.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "LOVE TOGETHER",
+      "artist": "Kohmi Hirose",
+      "has_synced": false,
+      "path": "select/05_LOVE_TOGETHER_Kohmi_Hirose.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "We're in This Love Together",
+      "artist": "Rebecca Lynn Howard",
+      "has_synced": true,
+      "path": "select/06_We're_in_This_Love_Together_Rebecca_Lynn_Howard.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Love Together",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/07_Love_Together_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "We're In This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/08_We're_In_This_Love_Together_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "We’re in This Love Together (2012 Japan Remaster)",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/09_We’re_in_This_Love_Together_(2012_Japan_Remaster)_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "We're In This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/10_We're_In_This_Love_Together_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "We're in This Love Together",
+      "artist": "Al Jarreau",
+      "has_synced": true,
+      "path": "select/11_We're_in_This_Love_Together_Al_Jarreau.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "We're in This Love Together",
+      "artist": "Jarreau, Al",
+      "has_synced": true,
+      "path": "select/12_We're_in_This_Love_Together_Jarreau,_Al.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "LOVE TOGETHER",
+      "artist": "Nona Reeves",
+      "has_synced": false,
+      "path": "select/pl_01_LOVE_TOGETHER_Nona_Reeves.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "LOVE TOGETHER",
+      "artist": "ノーナ・リーヴス",
+      "has_synced": true,
+      "path": "select/localdb_01_LOVE_TOGETHER_ノーナ・リーヴス.lrc",
+      "repo_name": "E-fxS_7lKPM"
+    }
+  ]
+}
